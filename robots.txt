@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: 
-
-Sitemap: https://relmet.github.io/view/sitemap
